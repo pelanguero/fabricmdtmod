@@ -1,0 +1,9 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "morefurnaces:blocks/iron_top",
+    "front": "morefurnaces:blocks/iron_front_off",
+    "side": "morefurnaces:blocks/iron_side",
+    "down": "morefurnaces:blocks/iron_bottom"
+  }
+}
