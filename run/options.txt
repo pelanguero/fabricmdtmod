@@ -18,7 +18,7 @@ fullscreen:false
 bobView:true
 mouseSensitivity:0.5
 fov:0.0
-gamma:0.0
+gamma:0.3274647891521454
 renderDistance:13
 guiScale:0
 particles:0
@@ -37,7 +37,7 @@ chatOpacity:1.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0

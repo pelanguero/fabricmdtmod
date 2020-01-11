@@ -21,6 +21,8 @@ import net.minecraft.world.World;
 import java.util.Random;
 
 public class IronFurnaceBlock extends AbstractFurnaceBlock {
+    public short subcom;
+    public short subspe;
     public IronFurnaceBlock(Block.Settings settings) {
         super(settings);
     }

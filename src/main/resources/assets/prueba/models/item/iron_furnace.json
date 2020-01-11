@@ -1,5 +1,5 @@
 {
-  "parent": "morefurnaces:block/furnace_iron",
+  "parent": "prueba:block/iron_furnace",
   "display": {
     "thirdperson": {
       "rotation": [ 10, -45, 170 ],

@@ -1,21 +1,15 @@
 package net.blocksEntity;
 import net.Prueba;
-import net.minecraft.block.AbstractFurnaceBlock;
-import net.minecraft.block.BlockState;
-import net.minecraft.block.Blocks;
 import net.minecraft.block.entity.AbstractFurnaceBlockEntity;
 import net.minecraft.container.Container;
 import net.minecraft.container.FurnaceContainer;
 import net.minecraft.entity.player.PlayerInventory;
-import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.Items;
 import net.minecraft.recipe.AbstractCookingRecipe;
-import net.minecraft.recipe.Recipe;
 import net.minecraft.recipe.RecipeType;
 import net.minecraft.text.Text;
 import net.minecraft.text.TranslatableText;
-import net.minecraft.util.math.MathHelper;
+
 
 
 public class IronFurnaceBlockEntity extends AbstractFurnaceBlockEntity {

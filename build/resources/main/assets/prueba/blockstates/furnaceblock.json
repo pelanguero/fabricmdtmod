@@ -1,15 +1,15 @@
 {
   "variants": {
-    "active=false,facing=north,variant=iron": { "model": "prueba:Iron_Furnace"},
-    "active=false,facing=east,variant=iron": { "model": "prueba:Iron_Furnace", "y": 90 },
-    "active=false,facing=south,variant=iron": { "model": "prueba:Iron_Furnace", "y": 180 },
-    "active=false,facing=west,variant=iron": { "model": "prueba:Iron_Furnace", "y": 270 },
+    "active=false,facing=north": { "model": "prueba:block/iron_furnace"},
+    "active=false,facing=east": { "model": "prueba:block/iron_furnace", "y": 90 },
+    "active=false,facing=south": { "model": "prueba:block/iron_furnace", "y": 180 },
+    "active=false,facing=west": { "model": "prueba:block/iron_furnace", "y": 270 },
     
 
-    "active=true,facing=north,variant=iron": { "model": "prueba:Iron_Furnace"},
-    "active=true,facing=east,variant=iron": { "model": "prueba:Iron_Furnace", "y": 90 },
-    "active=true,facing=south,variant=iron": { "model": "prueba:Iron_Furnace", "y": 180 },
-    "active=true,facing=west,variant=iron": { "model": "prueba:Iron_Furnace", "y": 270 }
+    "active=true,facing=north": { "model": "prueba:block/iron_furnace"},
+    "active=true,facing=east": { "model": "prueba:block/iron_furnace", "y": 90 },
+    "active=true,facing=south": { "model": "prueba:block/iron_furnace", "y": 180 },
+    "active=true,facing=west": { "model": "prueba:block/iron_furnace", "y": 270 }
     
   }
 }

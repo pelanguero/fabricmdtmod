@@ -1,169 +1,313 @@
-[17:04:59] [main/INFO]: Loading for game Minecraft 1.14.4
-[17:04:59] [main/INFO]: [FabricLoader] Loading 31 mods: fabric-networking-blockentity-v0@0.2.0+c877038942, minecraft@1.14.4, fabric-renderer-api-v1@0.1.1+591e97ae42, fabric-keybindings-v0@0.1.1+591e97ae42, fabricloader@0.7.0+build.171, prueba@1.0, fabric-renderer-indigo@0.1.13+591e97ae42, fabric-containers-v0@0.1.2+591e97ae42, fabric-dimensions-v1@0.1.0+369ab22e42, fabric-biomes-v1@0.1.0+591e97ae42, fabric-crash-report-info-v1@0.1.1+591e97ae42, fabric-events-interaction-v0@0.1.1+591e97ae42, fabric-api-base@0.1.1+2ac73e7242, fabric-rendering-v0@0.1.1+591e97ae42, fabric-rendering-data-attachment-v1@0.1.1+c877038942, fabric-resource-loader-v0@0.1.3+591e97ae42, fabric-textures-v0@0.1.4+591e97ae42, fabric-content-registries-v0@0.1.1+591e97ae42, fabric-tag-extensions-v0@0.1.1+591e97ae42, fabric-rendering-fluids-v1@0.1.2+36f27aa342, fabric-registry-sync-v0@0.2.2+591e97ae42, fabric-commands-v0@0.1.1+591e97ae42, fabric-mining-levels-v0@0.1.0+591e97ae42, fabric-loot-tables-v1@0.1.0+591e97ae42, fabric-events-lifecycle-v0@0.1.1+591e97ae42, fabric@0.4.1+build.245-1.14, fabric-item-groups-v0@0.1.0+591e97ae42, fabric-particles-v1@0.1.1+c877038942, fabric-models-v0@0.1.0+591e97ae42, fabric-networking-v0@0.1.3+591e97ae42, fabric-object-builders-v0@0.1.1+591e97ae42
-[17:04:59] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/C:/Users/vecto/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.8+build.16/f6fa0ddc2445392cd3499197158d928c7bd321c1/sponge-mixin-0.8+build.16.jar Service=Knot/Fabric Env=CLIENT
-[17:04:59] [main/INFO]: Loaded Fabric development mappings for mixin remapper!
-[17:05:00] [main/INFO]: Remapping refMap fabric-networking-v0-refmap.json using remapper chain
-[17:05:00] [main/INFO]: Remapping refMap fabric-networking-blockentity-v0-refmap.json using remapper chain
-[17:05:00] [main/INFO]: Remapping refMap fabric-biomes-v1-refmap.json using remapper chain
-[17:05:00] [main/INFO]: Remapping refMap fabric-mining-levels-v0-refmap.json using remapper chain
-[17:05:00] [main/INFO]: Remapping refMap fabric-containers-v0-refmap.json using remapper chain
-[17:05:00] [main/INFO]: Remapping refMap fabric-renderer-indigo-refmap.json using remapper chain
-[17:05:00] [main/INFO]: Remapping refMap fabric-rendering-data-attachment-v1-refmap.json using remapper chain
-[17:05:00] [main/INFO]: Remapping refMap fabric-events-interaction-v0-refmap.json using remapper chain
-[17:05:00] [main/INFO]: Remapping refMap fabric-loot-tables-v1-refmap.json using remapper chain
-[17:05:00] [main/INFO]: Remapping refMap fabric-dimensions-v1-refmap.json using remapper chain
-[17:05:00] [main/INFO]: Remapping refMap fabric-textures-v0-refmap.json using remapper chain
-[17:05:00] [main/INFO]: Remapping refMap fabric-registry-sync-v0-refmap.json using remapper chain
-[17:05:00] [main/INFO]: Remapping refMap fabric-models-v0-refmap.json using remapper chain
-[17:05:00] [main/INFO]: Remapping refMap fabric-keybindings-v0-refmap.json using remapper chain
-[17:05:00] [main/INFO]: Remapping refMap fabric-renderer-api-v1-refmap.json using remapper chain
-[17:05:00] [main/INFO]: Remapping refMap fabric-containers-v0-refmap.json using remapper chain
-[17:05:00] [main/INFO]: Remapping refMap fabric-events-lifecycle-v0-refmap.json using remapper chain
-[17:05:00] [main/INFO]: Remapping refMap fabric-rendering-fluids-v1-refmap.json using remapper chain
-[17:05:00] [main/INFO]: Remapping refMap fabric-resource-loader-v0-refmap.json using remapper chain
-[17:05:00] [main/INFO]: Remapping refMap fabric-particles-v1-refmap.json using remapper chain
-[17:05:00] [main/INFO]: Remapping refMap fabric-rendering-v0-refmap.json using remapper chain
-[17:05:00] [main/INFO]: Remapping refMap fabric-object-builders-v0-refmap.json using remapper chain
-[17:05:00] [main/INFO]: Remapping refMap fabric-tag-extensions-v0-refmap.json using remapper chain
-[17:05:00] [main/INFO]: Remapping refMap fabric-item-groups-v0-refmap.json using remapper chain
-[17:05:00] [main/INFO]: Remapping refMap fabric-content-registries-v0-refmap.json using remapper chain
-[17:05:00] [main/INFO]: Remapping refMap fabric-crash-report-info-v1-refmap.json using remapper chain
-[17:05:00] [main/INFO]: Remapping refMap fabric-commands-v0-refmap.json using remapper chain
-[17:05:00] [main/INFO]: Remapping refMap fabric-renderer-api-v1-refmap.json using remapper chain
-[17:05:01] [main/INFO]: Setting user: Player619
-[17:05:06] [main/INFO]: [Indigo] Registering Indigo renderer!
-[17:05:07] [main/WARN]: Skipping bad option: lastServer:
-[17:05:07] [main/INFO]: LWJGL Version: 3.2.2 build 10
-[17:05:10] [main/INFO]: Narrator library for x64 successfully loaded
-[17:05:12] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[17:05:20] [Server-Worker-2/WARN]: Exception loading blockstate definition: prueba:blockstates/iron_furnace_block.json: java.io.FileNotFoundException: prueba:blockstates/iron_furnace_block.json
-[17:05:20] [Server-Worker-2/WARN]: Exception loading blockstate definition: 'prueba:blockstates/iron_furnace_block.json' missing model for variant: 'prueba:iron_furnace_block#facing=south,lit=false'
-[17:05:20] [Server-Worker-2/WARN]: Exception loading blockstate definition: 'prueba:blockstates/iron_furnace_block.json' missing model for variant: 'prueba:iron_furnace_block#facing=west,lit=true'
-[17:05:20] [Server-Worker-2/WARN]: Exception loading blockstate definition: 'prueba:blockstates/iron_furnace_block.json' missing model for variant: 'prueba:iron_furnace_block#facing=east,lit=true'
-[17:05:20] [Server-Worker-2/WARN]: Exception loading blockstate definition: 'prueba:blockstates/iron_furnace_block.json' missing model for variant: 'prueba:iron_furnace_block#facing=east,lit=false'
-[17:05:20] [Server-Worker-2/WARN]: Exception loading blockstate definition: 'prueba:blockstates/iron_furnace_block.json' missing model for variant: 'prueba:iron_furnace_block#facing=north,lit=true'
-[17:05:20] [Server-Worker-2/WARN]: Exception loading blockstate definition: 'prueba:blockstates/iron_furnace_block.json' missing model for variant: 'prueba:iron_furnace_block#facing=west,lit=false'
-[17:05:20] [Server-Worker-2/WARN]: Exception loading blockstate definition: 'prueba:blockstates/iron_furnace_block.json' missing model for variant: 'prueba:iron_furnace_block#facing=south,lit=true'
-[17:05:20] [Server-Worker-2/WARN]: Exception loading blockstate definition: 'prueba:blockstates/iron_furnace_block.json' missing model for variant: 'prueba:iron_furnace_block#facing=north,lit=false'
-[17:05:21] [Server-Worker-2/WARN]: Unable to load model: 'prueba:iron_furnace_item#inventory' referenced from: prueba:iron_furnace_item#inventory: java.io.FileNotFoundException: prueba:models/item/iron_furnace_item.json
-[17:05:22] [main/INFO]: OpenAL initialized.
-[17:05:22] [main/INFO]: Sound engine started
-[17:05:22] [main/INFO]: Created: 1024x512 textures-atlas
-[17:05:23] [main/INFO]: Created: 256x256 textures/particle-atlas
-[17:05:23] [main/INFO]: Created: 256x256 textures/painting-atlas
-[17:05:23] [main/INFO]: Created: 256x128 textures/mob_effect-atlas
-[17:06:13] [main/INFO]: Deleting level New World
-[17:06:13] [main/INFO]: Attempt 1...
-[17:06:18] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:06:18] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:06:18] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:06:18] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:06:18] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:06:18] [Server thread/INFO]: Starting integrated minecraft server version 1.14.4
-[17:06:18] [Server thread/INFO]: Generating keypair
-[17:06:18] [Server thread/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
-[17:06:18] [Server thread/INFO]: Found new data pack fabric/fabric-mining-levels-v0, loading it automatically
-[17:06:18] [Server thread/INFO]: Found new data pack vanilla, loading it automatically
-[17:06:18] [Server thread/INFO]: Reloading ResourceManager: Default, Fabric Mining Levels (v0)
-[17:06:19] [Server thread/INFO]: Loaded 6 recipes
-[17:06:19] [Server thread/INFO]: Loaded 811 advancements
-[17:06:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:06:23] [main/INFO]: Preparing spawn area: 0%
-[17:06:24] [main/INFO]: Preparing spawn area: 0%
-[17:06:24] [main/INFO]: Preparing spawn area: 0%
-[17:06:25] [main/INFO]: Preparing spawn area: 0%
-[17:06:25] [main/INFO]: Preparing spawn area: 0%
-[17:06:26] [main/INFO]: Preparing spawn area: 1%
-[17:06:26] [main/INFO]: Preparing spawn area: 2%
-[17:06:27] [main/INFO]: Preparing spawn area: 5%
-[17:06:27] [main/INFO]: Preparing spawn area: 7%
-[17:06:28] [main/INFO]: Preparing spawn area: 7%
-[17:06:28] [main/INFO]: Preparing spawn area: 8%
-[17:06:29] [main/INFO]: Preparing spawn area: 13%
-[17:06:29] [main/INFO]: Preparing spawn area: 15%
-[17:06:30] [main/INFO]: Preparing spawn area: 16%
-[17:06:30] [main/INFO]: Preparing spawn area: 16%
-[17:06:31] [main/INFO]: Preparing spawn area: 22%
-[17:06:31] [main/INFO]: Preparing spawn area: 22%
-[17:06:32] [main/INFO]: Preparing spawn area: 24%
-[17:06:32] [main/INFO]: Preparing spawn area: 24%
-[17:06:33] [main/INFO]: Preparing spawn area: 24%
-[17:06:33] [main/INFO]: Preparing spawn area: 26%
-[17:06:34] [main/INFO]: Preparing spawn area: 32%
-[17:06:34] [main/INFO]: Preparing spawn area: 35%
-[17:06:35] [main/INFO]: Preparing spawn area: 35%
-[17:06:35] [main/INFO]: Preparing spawn area: 35%
-[17:06:36] [main/INFO]: Preparing spawn area: 44%
-[17:06:37] [main/INFO]: Preparing spawn area: 49%
-[17:06:37] [main/INFO]: Preparing spawn area: 49%
-[17:06:37] [main/INFO]: Preparing spawn area: 57%
-[17:06:38] [main/INFO]: Preparing spawn area: 61%
-[17:06:38] [main/INFO]: Preparing spawn area: 66%
-[17:06:39] [main/INFO]: Preparing spawn area: 69%
-[17:06:39] [main/INFO]: Preparing spawn area: 73%
-[17:06:40] [main/INFO]: Preparing spawn area: 76%
-[17:06:40] [main/INFO]: Preparing spawn area: 76%
-[17:06:41] [main/INFO]: Preparing spawn area: 85%
-[17:06:42] [main/INFO]: Preparing spawn area: 88%
-[17:06:42] [main/INFO]: Preparing spawn area: 88%
-[17:06:42] [main/INFO]: Preparing spawn area: 96%
-[17:06:42] [main/INFO]: Time elapsed: 19078 ms
-[17:06:43] [Server thread/INFO]: Changing view distance to 18, from 10
-[17:06:44] [Server thread/INFO]: Player619[local:E:9cdfabfb] logged in with entity id 295 at (-126.5, 67.0, 134.5)
-[17:06:44] [Server thread/INFO]: Player619 joined the game
-[17:06:45] [Server thread/INFO]: Saving and pausing game...
-[17:06:45] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:overworld
-[17:06:45] [main/INFO]: Loaded 0 advancements
-[17:06:48] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_end
-[17:06:48] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_nether
-[17:06:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3417ms or 68 ticks behind
-[17:06:56] [Server thread/INFO]: Saving and pausing game...
-[17:06:56] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:overworld
-[17:06:58] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_end
-[17:06:58] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_nether
-[17:07:01] [Server thread/INFO]: Changing view distance to 11, from 18
-[17:07:42] [Server thread/INFO]: Saving and pausing game...
-[17:07:42] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:overworld
-[17:07:45] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_end
-[17:07:45] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_nether
-[17:07:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2671ms or 53 ticks behind
-[17:08:36] [Server thread/INFO]: Player619 has made the advancement [The Parrots and the Bats]
-[17:08:36] [main/INFO]: [CHAT] Player619 has made the advancement [The Parrots and the Bats]
-[17:08:36] [main/INFO]: Loaded 3 advancements
-[17:09:49] [Server thread/INFO]: [Player619: Applied effect Night Vision to Player619]
-[17:09:49] [main/INFO]: [CHAT] Applied effect Night Vision to Player619
-[17:10:46] [Server thread/INFO]: Player619 has made the advancement [Ice Bucket Challenge]
-[17:10:46] [main/INFO]: [CHAT] Player619 has made the advancement [Ice Bucket Challenge]
-[17:10:46] [main/INFO]: Loaded 15 advancements
-[17:11:14] [main/WARN]: Received passengers for unknown entity
-[17:11:19] [Server thread/INFO]: Saving and pausing game...
-[17:11:19] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:overworld
-[17:11:21] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_end
-[17:11:21] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_nether
-[17:11:54] [Server thread/INFO]: Player619 has made the advancement [We Need to Go Deeper]
-[17:11:54] [main/INFO]: [CHAT] Player619 has made the advancement [We Need to Go Deeper]
-[17:11:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7609ms or 152 ticks behind
-[17:11:54] [main/INFO]: Loaded 23 advancements
-[17:12:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3043ms or 60 ticks behind
-[17:13:06] [main/INFO]: Loaded 24 advancements
-[17:15:09] [Server thread/INFO]: Saving and pausing game...
-[17:15:09] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:overworld
-[17:15:10] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_end
-[17:15:10] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_nether
-[17:15:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2512ms or 50 ticks behind
-[17:15:12] [Server thread/INFO]: Player619 lost connection: Disconnected
-[17:15:12] [Server thread/INFO]: Player619 left the game
-[17:15:12] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[17:15:12] [Server thread/INFO]: Stopping server
-[17:15:12] [Server thread/INFO]: Saving players
-[17:15:12] [Server thread/INFO]: Saving worlds
-[17:15:12] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:overworld
-[17:15:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
-[17:15:12] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_end
-[17:15:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:15:12] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_nether
-[17:15:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:15:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
-[17:15:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:15:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:15:14] [main/INFO]: Stopping!
+[16:22:17] [main/INFO]: Loading for game Minecraft 1.14.4
+[16:22:18] [main/INFO]: [FabricLoader] Loading 31 mods: fabric-renderer-api-v1@0.1.1+591e97ae42, minecraft@1.14.4, fabric-networking-blockentity-v0@0.2.0+c877038942, fabric-keybindings-v0@0.1.1+591e97ae42, fabricloader@0.7.0+build.171, prueba@1.0, fabric-renderer-indigo@0.1.13+591e97ae42, fabric-containers-v0@0.1.2+591e97ae42, fabric-dimensions-v1@0.1.0+369ab22e42, fabric-biomes-v1@0.1.0+591e97ae42, fabric-crash-report-info-v1@0.1.1+591e97ae42, fabric-events-interaction-v0@0.1.1+591e97ae42, fabric-api-base@0.1.1+2ac73e7242, fabric-rendering-v0@0.1.1+591e97ae42, fabric-rendering-data-attachment-v1@0.1.1+c877038942, fabric-resource-loader-v0@0.1.3+591e97ae42, fabric-textures-v0@0.1.4+591e97ae42, fabric-content-registries-v0@0.1.1+591e97ae42, fabric-tag-extensions-v0@0.1.1+591e97ae42, fabric-rendering-fluids-v1@0.1.2+36f27aa342, fabric-registry-sync-v0@0.2.2+591e97ae42, fabric-commands-v0@0.1.1+591e97ae42, fabric-mining-levels-v0@0.1.0+591e97ae42, fabric-events-lifecycle-v0@0.1.1+591e97ae42, fabric-loot-tables-v1@0.1.0+591e97ae42, fabric@0.4.1+build.245-1.14, fabric-item-groups-v0@0.1.0+591e97ae42, fabric-particles-v1@0.1.1+c877038942, fabric-models-v0@0.1.0+591e97ae42, fabric-networking-v0@0.1.3+591e97ae42, fabric-object-builders-v0@0.1.1+591e97ae42
+[16:22:18] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/home/pelanguero/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.8+build.16/f6fa0ddc2445392cd3499197158d928c7bd321c1/sponge-mixin-0.8+build.16.jar Service=Knot/Fabric Env=CLIENT
+[16:22:19] [main/INFO]: Loaded Fabric development mappings for mixin remapper!
+[16:22:19] [main/INFO]: Remapping refMap fabric-networking-v0-refmap.json using remapper chain
+[16:22:19] [main/INFO]: Remapping refMap fabric-networking-blockentity-v0-refmap.json using remapper chain
+[16:22:19] [main/INFO]: Remapping refMap fabric-biomes-v1-refmap.json using remapper chain
+[16:22:19] [main/INFO]: Remapping refMap fabric-mining-levels-v0-refmap.json using remapper chain
+[16:22:19] [main/INFO]: Remapping refMap fabric-containers-v0-refmap.json using remapper chain
+[16:22:19] [main/INFO]: Remapping refMap fabric-renderer-indigo-refmap.json using remapper chain
+[16:22:19] [main/INFO]: Remapping refMap fabric-rendering-data-attachment-v1-refmap.json using remapper chain
+[16:22:19] [main/INFO]: Remapping refMap fabric-events-interaction-v0-refmap.json using remapper chain
+[16:22:19] [main/INFO]: Remapping refMap fabric-loot-tables-v1-refmap.json using remapper chain
+[16:22:19] [main/INFO]: Remapping refMap fabric-dimensions-v1-refmap.json using remapper chain
+[16:22:19] [main/INFO]: Remapping refMap fabric-textures-v0-refmap.json using remapper chain
+[16:22:19] [main/INFO]: Remapping refMap fabric-registry-sync-v0-refmap.json using remapper chain
+[16:22:19] [main/INFO]: Remapping refMap fabric-models-v0-refmap.json using remapper chain
+[16:22:19] [main/INFO]: Remapping refMap fabric-keybindings-v0-refmap.json using remapper chain
+[16:22:19] [main/INFO]: Remapping refMap fabric-renderer-api-v1-refmap.json using remapper chain
+[16:22:19] [main/INFO]: Remapping refMap fabric-containers-v0-refmap.json using remapper chain
+[16:22:19] [main/INFO]: Remapping refMap fabric-events-lifecycle-v0-refmap.json using remapper chain
+[16:22:19] [main/INFO]: Remapping refMap fabric-rendering-fluids-v1-refmap.json using remapper chain
+[16:22:19] [main/INFO]: Remapping refMap fabric-resource-loader-v0-refmap.json using remapper chain
+[16:22:19] [main/INFO]: Remapping refMap fabric-particles-v1-refmap.json using remapper chain
+[16:22:19] [main/INFO]: Remapping refMap fabric-rendering-v0-refmap.json using remapper chain
+[16:22:19] [main/INFO]: Remapping refMap fabric-object-builders-v0-refmap.json using remapper chain
+[16:22:19] [main/INFO]: Remapping refMap fabric-tag-extensions-v0-refmap.json using remapper chain
+[16:22:19] [main/INFO]: Remapping refMap fabric-item-groups-v0-refmap.json using remapper chain
+[16:22:19] [main/INFO]: Remapping refMap fabric-content-registries-v0-refmap.json using remapper chain
+[16:22:19] [main/INFO]: Remapping refMap fabric-crash-report-info-v1-refmap.json using remapper chain
+[16:22:19] [main/INFO]: Remapping refMap fabric-commands-v0-refmap.json using remapper chain
+[16:22:19] [main/INFO]: Remapping refMap fabric-renderer-api-v1-refmap.json using remapper chain
+[16:22:23] [main/INFO]: Setting user: Player873
+[16:22:45] [main/INFO]: [Indigo] Registering Indigo renderer!
+[16:22:46] [main/WARN]: Skipping bad option: lastServer:
+[16:22:46] [main/INFO]: LWJGL Version: 3.2.2 build 10
+[16:22:53] [main/WARN]: ERROR : Couldn't load Narrator library : Unable to load library 'fliteWrapper': Native library (linux-x86-64/libfliteWrapper.so) not found in resource path (/home/pelanguero/.gradle/caches/fabric-loom/yarn-1.14.4+build.15-v2-final.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/com.mojang/patchy/1.1/aef610b34a1be37fa851825f12372b78424d8903/patchy-1.1.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/oshi-project/oshi-core/1.1/9ddf7b048a8d701be231c0f4f95fd986198fd2d8/oshi-core-1.1.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna/4.4.0/cb208278274bf12ebdb56c61bd7407e6f774d65a/jna-4.4.0.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/platform/3.4.0/e3f70017be8100d3d6923f50b3d2ee17714e9c13/platform-3.4.0.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/com.ibm.icu/icu4j-core-mojang/51.2/63d216a9311cca6be337c1e458e587f99d382b84/icu4j-core-mojang-51.2.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/com.mojang/javabridge/1.0.22/6aa6453aa99a52a5cd91749da1af6ab70e082ab3/javabridge-1.0.22.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/net.sf.jopt-simple/jopt-simple/5.0.3/cdd846cfc4e0f7eefafc02c0f5dce32b9303aa2a/jopt-simple-5.0.3.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.25.Final/d0626cd3108294d1d58c05859add27b4ef21f83b/netty-all-4.1.25.Final.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/21.0/3a3d111be1be1b745edfa7d91678a12d7ed38709/guava-21.0.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.5/6c6c702c89bfff3cd9e80b04d668c5e190d588c6/commons-lang3-3.5.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.5/2852e6e05fbb95076fc091f6d1780f1f8fe35e0f/commons-io-2.5.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.10/4b95f4897fa13f2cd904aee711aeafc0c5295cd8/commons-codec-1.10.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput/2.0.5/39c7796b469a600f72380316f6b1f11db6c2c7c4/jinput-2.0.5.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/net.java.jutils/jutils/1.0.0/e12fe1fda814bd348c1579329c86943d2cd3c6a6/jutils-1.0.0.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/com.mojang/brigadier/1.0.17/c6b7dc51dd44379cc751b7504816006e9be4b1e6/brigadier-1.0.17.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/com.mojang/datafixerupper/2.0.24/944c24a8519981847ffb36c6dcd059d96fcb4b0/datafixerupper-2.0.24.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/com.mojang/authlib/1.5.25/9834cdf236c22e84b946bba989e2f94ef5897c3c/authlib-1.5.25.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.8.1/a698750c16740fd5b3871425f4cb3bbaa87f529d/commons-compress-1.8.1.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.3.3/18f4247ff4572a074444572cee34647c43e7c9c7/httpclient-4.3.3.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.1.3/f6f66e966c70a83ffbdb6f17a0919eaf7c8aca7f/commons-logging-1.1.3.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.3.2/31fbbff1ddbf98f3aa7377c94d33b0447c646b6e/httpcore-4.3.2.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/it.unimi.dsi/fastutil/8.2.1/5ad88f325e424f8dbc2be5459e21ea5cab3864e9/fastutil-8.2.1.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.8.1/e801d13612e22cad62a3f4f3fe7fdbe6334a8e72/log4j-api-2.8.1.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.8.1/4ac28ff2f1ddf05dae3043a190451e8c46b73c31/log4j-core-2.8.1.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl/3.2.2/8ad6294407e15780b43e84929c40e4c5e997972e/lwjgl-3.2.2.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-jemalloc/3.2.2/ee8e57a79300f78294576d87c4a587f8c99402e2/lwjgl-jemalloc-3.2.2.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-openal/3.2.2/2b772a102b0a11ee5f2109a5b136f4dc7c630827/lwjgl-openal-3.2.2.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opengl/3.2.2/6ac5bb88b44c43ea195a570aab059f63da004cd8/lwjgl-opengl-3.2.2.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-glfw/3.2.2/d3ad4df38e400b8afba1de63f84338809399df5b/lwjgl-glfw-3.2.2.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-stb/3.2.2/3b8e6ebc5851dd3d17e37e5cadce2eff2a429f0f/lwjgl-stb-3.2.2.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/com.mojang/text2speech/1.11.3/f378f889797edd7df8d32272c06ca80a1b6b0f58/text2speech-1.11.3.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/net.fabricmc/tiny-mappings-parser/0.2.0.11/7867441f757f51b3e611116534d7450a3b4a83f4/tiny-mappings-parser-0.2.0.11.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.8+build.16/f6fa0ddc2445392cd3499197158d928c7bd321c1/sponge-mixin-0.8+build.16.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/net.fabricmc/tiny-remapper/0.2.0.52/6693ca33a7209dc1a90a164afa434b5517364a28/tiny-remapper-0.2.0.52.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/net.fabricmc/fabric-loader-sat4j/2.3.5.4/f8fe5353909430b5845ae24ea1e01d83f12ad916/fabric-loader-sat4j-2.3.5.4.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/com.google.jimfs/jimfs/1.1/8fbd0579dc68aba6186935cc1bee21d2f3e7ec1c/jimfs-1.1.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/7.2/fa637eb67eb7628c915d73762b681ae7ff0b9731/asm-7.2.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/7.2/b6e6abe057f23630113f4167c34bda7086691258/asm-analysis-7.2.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/7.2/ca2954e8d92a05bacc28ff465b25c70e0f512497/asm-commons-7.2.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/7.2/3a23cc36edaf8fc5a89cb100182758ccb5991487/asm-tree-7.2.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-util/7.2/a3ae34e57fa8a4040e28247291d0cc3d6b8c7bcf/asm-util-7.2.jar:/home/pelanguero/.gradle/caches/fabric-loom/minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:/home/pelanguero/Documents/fabricmdtmod/.gradle/loom-cache/remapped_mods/fabric-api-0.4.1+build.245-1.14@net.fabricmc.yarn.1_14_4.1.14.4+build.15-v2.jar:/home/pelanguero/Documents/fabricmdtmod/.gradle/loom-cache/remapped_mods/fabric-api-base-0.1.1+2ac73e7242@net.fabricmc.yarn.1_14_4.1.14.4+build.15-v2.jar:/home/pelanguero/Documents/fabricmdtmod/.gradle/loom-cache/remapped_mods/fabric-biomes-v1-0.1.0+591e97ae42@net.fabricmc.yarn.1_14_4.1.14.4+build.15-v2.jar:/home/pelanguero/Documents/fabricmdtmod/.gradle/loom-cache/remapped_mods/fabric-commands-v0-0.1.1+591e97ae42@net.fabricmc.yarn.1_14_4.1.14.4+build.15-v2.jar:/home/pelanguero/Documents/fabricmdtmod/.gradle/loom-cache/remapped_mods/fabric-containers-v0-0.1.2+591e97ae42@net.fabricmc.yarn.1_14_4.1.14.4+build.15-v2.jar:/home/pelanguero/Documents/fabricmdtmod/.gradle/loom-cache/remapped_mods/fabric-content-registries-v0-0.1.1+591e97ae42@net.fabricmc.yarn.1_14_4.1.14.4+build.15-v2.jar:/home/pelanguero/Documents/fabricmdtmod/.gradle/loom-cache/remapped_mods/fabric-crash-report-info-v1-0.1.1+591e97ae42@net.fabricmc.yarn.1_14_4.1.14.4+build.15-v2.jar:/home/pelanguero/Documents/fabricmdtmod/.gradle/loom-cache/remapped_mods/fabric-dimensions-v1-0.1.0+369ab22e42@net.fabricmc.yarn.1_14_4.1.14.4+build.15-v2.jar:/home/pelanguero/Documents/fabricmdtmod/.gradle/loom-cache/remapped_mods/fabric-events-interaction-v0-0.1.1+591e97ae42@net.fabricmc.yarn.1_14_4.1.14.4+build.15-v2.jar:/home/pelanguero/Documents/fabricmdtmod/.gradle/loom-cache/remapped_mods/fabric-events-lifecycle-v0-0.1.1+591e97ae42@net.fabricmc.yarn.1_14_4.1.14.4+build.15-v2.jar:/home/pelanguero/Documents/fabricmdtmod/.gradle/loom-cache/remapped_mods/fabric-item-groups-v0-0.1.0+591e97ae42@net.fabricmc.yarn.1_14_4.1.14.4+build.15-v2.jar:/home/pelanguero/Documents/fabricmdtmod/.gradle/loom-cache/remapped_mods/fabric-keybindings-v0-0.1.1+591e97ae42@net.fabricmc.yarn.1_14_4.1.14.4+build.15-v2.jar:/home/pelanguero/Documents/fabricmdtmod/.gradle/loom-cache/remapped_mods/fabric-loot-tables-v1-0.1.0+591e97ae42@net.fabricmc.yarn.1_14_4.1.14.4+build.15-v2.jar:/home/pelanguero/Documents/fabricmdtmod/.gradle/loom-cache/remapped_mods/fabric-mining-levels-v0-0.1.0+591e97ae42@net.fabricmc.yarn.1_14_4.1.14.4+build.15-v2.jar:/home/pelanguero/Documents/fabricmdtmod/.gradle/loom-cache/remapped_mods/fabric-models-v0-0.1.0+591e97ae42@net.fabricmc.yarn.1_14_4.1.14.4+build.15-v2.jar:/home/pelanguero/Documents/fabricmdtmod/.gradle/loom-cache/remapped_mods/fabric-networking-blockentity-v0-0.2.0+c877038942@net.fabricmc.yarn.1_14_4.1.14.4+build.15-v2.jar:/home/pelanguero/Documents/fabricmdtmod/.gradle/loom-cache/remapped_mods/fabric-networking-v0-0.1.3+591e97ae42@net.fabricmc.yarn.1_14_4.1.14.4+build.15-v2.jar:/home/pelanguero/Documents/fabricmdtmod/.gradle/loom-cache/remapped_mods/fabric-object-builders-v0-0.1.1+591e97ae42@net.fabricmc.yarn.1_14_4.1.14.4+build.15-v2.jar:/home/pelanguero/Documents/fabricmdtmod/.gradle/loom-cache/remapped_mods/fabric-particles-v1-0.1.1+c877038942@net.fabricmc.yarn.1_14_4.1.14.4+build.15-v2.jar:/home/pelanguero/Documents/fabricmdtmod/.gradle/loom-cache/remapped_mods/fabric-registry-sync-v0-0.2.2+591e97ae42@net.fabricmc.yarn.1_14_4.1.14.4+build.15-v2.jar:/home/pelanguero/Documents/fabricmdtmod/.gradle/loom-cache/remapped_mods/fabric-renderer-api-v1-0.1.1+591e97ae42@net.fabricmc.yarn.1_14_4.1.14.4+build.15-v2.jar:/home/pelanguero/Documents/fabricmdtmod/.gradle/loom-cache/remapped_mods/fabric-renderer-indigo-0.1.13+591e97ae42@net.fabricmc.yarn.1_14_4.1.14.4+build.15-v2.jar:/home/pelanguero/Documents/fabricmdtmod/.gradle/loom-cache/remapped_mods/fabric-rendering-data-attachment-v1-0.1.1+c877038942@net.fabricmc.yarn.1_14_4.1.14.4+build.15-v2.jar:/home/pelanguero/Documents/fabricmdtmod/.gradle/loom-cache/remapped_mods/fabric-rendering-fluids-v1-0.1.2+36f27aa342@net.fabricmc.yarn.1_14_4.1.14.4+build.15-v2.jar:/home/pelanguero/Documents/fabricmdtmod/.gradle/loom-cache/remapped_mods/fabric-rendering-v0-0.1.1+591e97ae42@net.fabricmc.yarn.1_14_4.1.14.4+build.15-v2.jar:/home/pelanguero/Documents/fabricmdtmod/.gradle/loom-cache/remapped_mods/fabric-resource-loader-v0-0.1.3+591e97ae42@net.fabricmc.yarn.1_14_4.1.14.4+build.15-v2.jar:/home/pelanguero/Documents/fabricmdtmod/.gradle/loom-cache/remapped_mods/fabric-tag-extensions-v0-0.1.1+591e97ae42@net.fabricmc.yarn.1_14_4.1.14.4+build.15-v2.jar:/home/pelanguero/Documents/fabricmdtmod/.gradle/loom-cache/remapped_mods/fabric-textures-v0-0.1.4+591e97ae42@net.fabricmc.yarn.1_14_4.1.14.4+build.15-v2.jar:/home/pelanguero/Documents/fabricmdtmod/.gradle/loom-cache/remapped_mods/fabric-loader-0.7.0+build.171@net.fabricmc.yarn.1_14_4.1.14.4+build.15-v2.jar:/home/pelanguero/.gradle/caches/modules-2/files-2.1/net.fabricmc/dev-launch-injector/0.1.0+build.3/dcc2346927b2b29707c31a62f45283c945253f68/dev-launch-injector-0.1.0+build.3.jar:/home/pelanguero/Documents/fabricmdtmod/build/libs/Prueba-1.0.0-dev.jar)
+[16:22:58] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[16:24:20] [Server-Worker-1/WARN]: Unable to load model: 'prueba:iron_nether_item#inventory' referenced from: prueba:iron_nether_item#inventory: java.io.FileNotFoundException: prueba:models/item/iron_nether_item.json
+[16:24:20] [Server-Worker-1/WARN]: Unable to load model: 'prueba:diamond_nether_item#inventory' referenced from: prueba:diamond_nether_item#inventory: java.io.FileNotFoundException: prueba:models/item/diamond_nether_item.json
+[16:24:20] [Server-Worker-1/WARN]: Unable to load model: 'prueba:emerald_nether_item#inventory' referenced from: prueba:emerald_nether_item#inventory: java.io.FileNotFoundException: prueba:models/item/emerald_nether_item.json
+[16:24:20] [Server-Worker-1/WARN]: Unable to load model: 'prueba:lapis_nether_item#inventory' referenced from: prueba:lapis_nether_item#inventory: java.io.FileNotFoundException: prueba:models/item/lapis_nether_item.json
+[16:24:20] [Server-Worker-1/WARN]: Unable to load model: 'prueba:redstone_nether_item#inventory' referenced from: prueba:redstone_nether_item#inventory: java.io.FileNotFoundException: prueba:models/item/redstone_nether_item.json
+[16:24:20] [Server-Worker-1/WARN]: Unable to load model: 'prueba:oro_nether_item#inventory' referenced from: prueba:oro_nether_item#inventory: java.io.FileNotFoundException: prueba:models/item/oro_nether_item.json
+[16:24:20] [Server-Worker-1/WARN]: Unable to load model: 'prueba:iron_furnace_item#inventory' referenced from: prueba:iron_furnace_item#inventory: java.io.FileNotFoundException: prueba:models/item/iron_furnace_item.json
+[16:24:25] [main/INFO]: OpenAL initialized.
+[16:24:25] [main/INFO]: Sound engine started
+[16:24:25] [main/INFO]: Created: 1024x512 textures-atlas
+[16:24:26] [main/INFO]: Created: 256x256 textures/particle-atlas
+[16:24:26] [main/INFO]: Created: 256x256 textures/painting-atlas
+[16:24:26] [main/INFO]: Created: 256x128 textures/mob_effect-atlas
+[16:24:53] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[16:24:54] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:24:54] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:24:54] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:24:54] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:24:54] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:24:54] [Server thread/INFO]: Starting integrated minecraft server version 1.14.4
+[16:24:54] [Server thread/INFO]: Generating keypair
+[16:24:55] [Server thread/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[16:24:55] [Server thread/INFO]: Reloading ResourceManager: Default, Fabric Mining Levels (v0), prueba
+[16:25:03] [Server thread/INFO]: Loaded 6 recipes
+[16:25:03] [Server thread/ERROR]: Couldn't parse loot table prueba:blocks/diamond_nether
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'prueba:diamond_nether'
+	at net.minecraft.util.JsonHelper.method_17995(JsonHelper.java:128) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
+	at net.minecraft.util.JsonHelper.asItem(JsonHelper.java:128) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.util.JsonHelper.getItem(JsonHelper.java:136) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.world.loot.entry.ItemEntry$Serializer.method_413(ItemEntry.java:54) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.world.loot.entry.ItemEntry$Serializer.fromJson(ItemEntry.java:35) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.world.loot.entry.LeafEntry$Serializer.method_441(LeafEntry.java:160) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.world.loot.entry.LeafEntry$Serializer.fromJson(LeafEntry.java:134) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.world.loot.entry.LootEntries$Serializer.method_407(LootEntries.java:53) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.world.loot.entry.LootEntries$Serializer.deserialize(LootEntries.java:41) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.0.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.0.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.0.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[gson-2.8.0.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[gson-2.8.0.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.0.jar:?]
+	at net.minecraft.util.JsonHelper.deserialize(JsonHelper.java:440) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.util.JsonHelper.deserialize(JsonHelper.java:448) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.world.loot.entry.CombinedEntry$Serializer.method_396(CombinedEntry.java:69) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.world.loot.entry.CombinedEntry$Serializer.fromJson(CombinedEntry.java:57) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.world.loot.entry.LootEntries$Serializer.method_407(LootEntries.java:53) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.world.loot.entry.LootEntries$Serializer.deserialize(LootEntries.java:41) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.0.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.0.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.0.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[gson-2.8.0.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[gson-2.8.0.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.0.jar:?]
+	at net.minecraft.util.JsonHelper.deserialize(JsonHelper.java:440) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.util.JsonHelper.deserialize(JsonHelper.java:448) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.world.loot.LootPool$Serializer.method_358(LootPool.java:173) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.world.loot.LootPool$Serializer.deserialize(LootPool.java:169) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.0.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.0.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.0.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[gson-2.8.0.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[gson-2.8.0.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.0.jar:?]
+	at net.minecraft.util.JsonHelper.deserialize(JsonHelper.java:440) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.util.JsonHelper.deserialize(JsonHelper.java:456) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.world.loot.LootSupplier$Serializer.method_340(LootSupplier.java:215) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.world.loot.LootSupplier$Serializer.deserialize(LootSupplier.java:211) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.0.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[gson-2.8.0.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[gson-2.8.0.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:925) ~[gson-2.8.0.jar:?]
+	at net.minecraft.world.loot.LootManager.method_20711(LootManager.java:62) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1336) ~[?:?]
+	at net.minecraft.world.loot.LootManager.method_20712(LootManager.java:60) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.world.loot.LootManager.apply(LootManager.java:26) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.resource.SinglePreparationResourceReloadListener.method_18790(SinglePreparationResourceReloadListener.java:13) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resource.ResourceReloader.method_18365(ResourceReloader.java:71) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.server.ServerTask.run(ServerTask.java:18) [minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.util.ThreadExecutor.runSafely(ThreadExecutor.java:144) [minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.util.NonBlockingThreadExecutor.runSafely(NonBlockingThreadExecutor.java:23) [minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.util.ThreadExecutor.executeQueuedTask(ThreadExecutor.java:118) [minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:712) [minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.server.MinecraftServer.executeQueuedTask(MinecraftServer.java:706) [minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.util.ThreadExecutor.waitFor(ThreadExecutor.java:127) [minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.server.MinecraftServer.reloadDataPacks(MinecraftServer.java:1471) [minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.server.MinecraftServer.loadWorldDataPacks(MinecraftServer.java:458) [minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.server.integrated.IntegratedServer.loadWorld(IntegratedServer.java:79) [minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.server.integrated.IntegratedServer.setupServer(IntegratedServer.java:104) [minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:615) [minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[16:25:03] [Server thread/ERROR]: Couldn't parse loot table prueba:blocks/redstone_nether
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'prueba:redstone_nether'
+	at net.minecraft.util.JsonHelper.method_17995(JsonHelper.java:128) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
+	at net.minecraft.util.JsonHelper.asItem(JsonHelper.java:128) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.util.JsonHelper.getItem(JsonHelper.java:136) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.world.loot.entry.ItemEntry$Serializer.method_413(ItemEntry.java:54) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.world.loot.entry.ItemEntry$Serializer.fromJson(ItemEntry.java:35) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.world.loot.entry.LeafEntry$Serializer.method_441(LeafEntry.java:160) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.world.loot.entry.LeafEntry$Serializer.fromJson(LeafEntry.java:134) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.world.loot.entry.LootEntries$Serializer.method_407(LootEntries.java:53) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.world.loot.entry.LootEntries$Serializer.deserialize(LootEntries.java:41) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.0.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.0.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.0.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[gson-2.8.0.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[gson-2.8.0.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.0.jar:?]
+	at net.minecraft.util.JsonHelper.deserialize(JsonHelper.java:440) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.util.JsonHelper.deserialize(JsonHelper.java:448) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.world.loot.entry.CombinedEntry$Serializer.method_396(CombinedEntry.java:69) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.world.loot.entry.CombinedEntry$Serializer.fromJson(CombinedEntry.java:57) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.world.loot.entry.LootEntries$Serializer.method_407(LootEntries.java:53) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.world.loot.entry.LootEntries$Serializer.deserialize(LootEntries.java:41) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.0.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.0.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.0.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[gson-2.8.0.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[gson-2.8.0.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.0.jar:?]
+	at net.minecraft.util.JsonHelper.deserialize(JsonHelper.java:440) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.util.JsonHelper.deserialize(JsonHelper.java:448) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.world.loot.LootPool$Serializer.method_358(LootPool.java:173) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.world.loot.LootPool$Serializer.deserialize(LootPool.java:169) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.0.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.0.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.0.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[gson-2.8.0.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[gson-2.8.0.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.0.jar:?]
+	at net.minecraft.util.JsonHelper.deserialize(JsonHelper.java:440) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.util.JsonHelper.deserialize(JsonHelper.java:456) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.world.loot.LootSupplier$Serializer.method_340(LootSupplier.java:215) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.world.loot.LootSupplier$Serializer.deserialize(LootSupplier.java:211) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.0.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[gson-2.8.0.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[gson-2.8.0.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:925) ~[gson-2.8.0.jar:?]
+	at net.minecraft.world.loot.LootManager.method_20711(LootManager.java:62) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1336) ~[?:?]
+	at net.minecraft.world.loot.LootManager.method_20712(LootManager.java:60) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.world.loot.LootManager.apply(LootManager.java:26) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.resource.SinglePreparationResourceReloadListener.method_18790(SinglePreparationResourceReloadListener.java:13) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resource.ResourceReloader.method_18365(ResourceReloader.java:71) ~[minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.server.ServerTask.run(ServerTask.java:18) [minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.util.ThreadExecutor.runSafely(ThreadExecutor.java:144) [minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.util.NonBlockingThreadExecutor.runSafely(NonBlockingThreadExecutor.java:23) [minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.util.ThreadExecutor.executeQueuedTask(ThreadExecutor.java:118) [minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:712) [minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.server.MinecraftServer.executeQueuedTask(MinecraftServer.java:706) [minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.util.ThreadExecutor.waitFor(ThreadExecutor.java:127) [minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.server.MinecraftServer.reloadDataPacks(MinecraftServer.java:1471) [minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.server.MinecraftServer.loadWorldDataPacks(MinecraftServer.java:458) [minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.server.integrated.IntegratedServer.loadWorld(IntegratedServer.java:79) [minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.server.integrated.IntegratedServer.setupServer(IntegratedServer.java:104) [minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:615) [minecraft-1.14.4-mapped-net.fabricmc.yarn-1.14.4+build.15-v2.jar:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[16:25:05] [Server thread/INFO]: Loaded 811 advancements
+[16:25:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:25:12] [main/INFO]: Preparing spawn area: 0%
+[16:25:12] [main/INFO]: Preparing spawn area: 0%
+[16:25:12] [main/INFO]: Preparing spawn area: 0%
+[16:25:12] [main/INFO]: Preparing spawn area: 0%
+[16:25:12] [main/INFO]: Preparing spawn area: 0%
+[16:25:12] [main/INFO]: Preparing spawn area: 0%
+[16:25:12] [main/INFO]: Preparing spawn area: 0%
+[16:25:12] [main/INFO]: Preparing spawn area: 0%
+[16:25:12] [main/INFO]: Preparing spawn area: 0%
+[16:25:12] [main/INFO]: Preparing spawn area: 0%
+[16:25:12] [main/INFO]: Preparing spawn area: 0%
+[16:25:12] [main/INFO]: Preparing spawn area: 0%
+[16:25:12] [main/INFO]: Preparing spawn area: 0%
+[16:25:13] [main/INFO]: Preparing spawn area: 4%
+[16:25:24] [main/INFO]: Preparing spawn area: 4%
+[16:25:24] [main/INFO]: Preparing spawn area: 4%
+[16:25:24] [main/INFO]: Preparing spawn area: 4%
+[16:25:24] [main/INFO]: Preparing spawn area: 4%
+[16:25:24] [main/INFO]: Preparing spawn area: 4%
+[16:25:24] [main/INFO]: Preparing spawn area: 4%
+[16:25:24] [main/INFO]: Preparing spawn area: 4%
+[16:25:24] [main/INFO]: Preparing spawn area: 4%
+[16:25:24] [main/INFO]: Preparing spawn area: 4%
+[16:25:24] [main/INFO]: Preparing spawn area: 4%
+[16:25:24] [main/INFO]: Preparing spawn area: 4%
+[16:25:24] [main/INFO]: Preparing spawn area: 4%
+[16:25:24] [main/INFO]: Preparing spawn area: 4%
+[16:25:24] [main/INFO]: Preparing spawn area: 4%
+[16:25:24] [main/INFO]: Preparing spawn area: 4%
+[16:25:24] [main/INFO]: Preparing spawn area: 4%
+[16:25:24] [main/INFO]: Preparing spawn area: 4%
+[16:25:24] [main/INFO]: Preparing spawn area: 4%
+[16:25:24] [main/INFO]: Preparing spawn area: 4%
+[16:25:24] [main/INFO]: Preparing spawn area: 4%
+[16:25:24] [main/INFO]: Preparing spawn area: 4%
+[16:25:24] [main/INFO]: Preparing spawn area: 4%
+[16:25:24] [main/INFO]: Preparing spawn area: 4%
+[16:25:25] [main/INFO]: Preparing spawn area: 8%
+[16:25:28] [main/INFO]: Preparing spawn area: 10%
+[16:25:28] [main/INFO]: Preparing spawn area: 10%
+[16:25:28] [main/INFO]: Preparing spawn area: 10%
+[16:25:28] [main/INFO]: Preparing spawn area: 10%
+[16:25:28] [main/INFO]: Preparing spawn area: 10%
+[16:25:28] [main/INFO]: Preparing spawn area: 10%
+[16:25:28] [main/INFO]: Preparing spawn area: 23%
+[16:25:28] [main/INFO]: Preparing spawn area: 28%
+[16:25:29] [main/INFO]: Preparing spawn area: 29%
+[16:25:30] [main/INFO]: Preparing spawn area: 33%
+[16:25:30] [main/INFO]: Preparing spawn area: 35%
+[16:25:30] [main/INFO]: Preparing spawn area: 38%
+[16:25:31] [main/INFO]: Preparing spawn area: 44%
+[16:25:32] [main/INFO]: Preparing spawn area: 58%
+[16:25:32] [main/INFO]: Preparing spawn area: 59%
+[16:25:32] [main/INFO]: Preparing spawn area: 63%
+[16:25:33] [main/INFO]: Preparing spawn area: 63%
+[16:25:34] [main/INFO]: Preparing spawn area: 66%
+[16:25:34] [main/INFO]: Preparing spawn area: 67%
+[16:25:35] [main/INFO]: Preparing spawn area: 67%
+[16:25:35] [main/INFO]: Preparing spawn area: 70%
+[16:25:36] [main/INFO]: Preparing spawn area: 73%
+[16:25:36] [main/INFO]: Preparing spawn area: 79%
+[16:25:38] [main/INFO]: Preparing spawn area: 94%
+[16:25:38] [main/INFO]: Preparing spawn area: 94%
+[16:25:38] [main/INFO]: Preparing spawn area: 94%
+[16:25:38] [main/INFO]: Time elapsed: 32462 ms
+[16:25:41] [Server thread/INFO]: Changing view distance to 11, from 10
+[16:25:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2422ms or 48 ticks behind
+[16:25:45] [Server thread/INFO]: Player873[local:E:5428c4b2] logged in with entity id 255 at (8.801995773457191, 42.71125946474107, 42.81967694838664)
+[16:25:45] [Server thread/INFO]: Player873 joined the game
+[16:25:46] [Server thread/INFO]: Player873 has made the advancement [Diamonds!]
+[16:25:46] [Server thread/INFO]: Player873 has made the advancement [Ice Bucket Challenge]
+[16:25:46] [main/INFO]: [CHAT] Player873 has made the advancement [Diamonds!]
+[16:25:46] [main/INFO]: [CHAT] Player873 has made the advancement [Ice Bucket Challenge]
+[16:25:46] [Server thread/INFO]: Saving and pausing game...
+[16:25:46] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:overworld
+[16:25:56] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_end
+[16:25:56] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_nether
+[16:25:58] [main/WARN]: Received passengers for unknown entity
+[16:26:47] [main/INFO]: Loaded 30 advancements
+[16:26:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2114ms or 42 ticks behind
+[16:27:20] [Server thread/INFO]: [Player873: Set own game mode to Survival Mode]
+[16:27:20] [main/INFO]: [CHAT] Set own game mode to Survival Mode
+[16:27:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29858ms or 597 ticks behind
+[16:27:45] [Server thread/INFO]: [Player873: Set own game mode to Creative Mode]
+[16:27:45] [main/INFO]: [CHAT] Set own game mode to Creative Mode
+[16:27:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6884ms or 137 ticks behind
+[16:28:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12541ms or 250 ticks behind
+[16:28:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5558ms or 111 ticks behind
+[16:28:53] [Server thread/INFO]: [Player873: Set own game mode to Survival Mode]
+[16:28:53] [main/INFO]: [CHAT] Set own game mode to Survival Mode
+[16:29:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4432ms or 88 ticks behind
+[16:29:12] [Server thread/INFO]: Saving and pausing game...
+[16:29:12] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:overworld
+[16:29:14] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_end
+[16:29:14] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_nether
+[16:29:19] [Server thread/INFO]: Player873 lost connection: Disconnected
+[16:29:19] [Server thread/INFO]: Player873 left the game
+[16:29:19] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[16:29:19] [Server thread/INFO]: Stopping server
+[16:29:19] [Server thread/INFO]: Saving players
+[16:29:19] [Server thread/INFO]: Saving worlds
+[16:29:19] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:overworld
+[16:29:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World (1)): All chunks are saved
+[16:29:20] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_end
+[16:29:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:29:20] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_nether
+[16:29:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:29:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World (1)): All chunks are saved
+[16:29:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:29:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:29:22] [main/INFO]: Stopping!
