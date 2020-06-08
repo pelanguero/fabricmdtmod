@@ -1,0 +1,9 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "prueba:blocks/iron_top",
+    "front": "prueba:blocks/iron_front_on",
+    "side": "prueba:blocks/iron_side",
+    "down": "prueba:blocks/iron_bottom"
+  }
+}

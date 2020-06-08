@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "lit=false,facing=north": { "model": "prueba:block/iron_furnace"},
+    "lit=false,facing=east": { "model": "prueba:block/iron_furnace", "y": 90 },
+    "lit=false,facing=south": { "model": "prueba:block/iron_furnace", "y": 180 },
+    "lit=false,facing=west": { "model": "prueba:block/iron_furnace", "y": 270 },
+
+
+    "lit=true,facing=north": { "model": "prueba:block/iron_furnace_on"},
+    "lit=true,facing=east": { "model": "prueba:block/iron_furnace_on", "y": 90 },
+    "lit=true,facing=south": { "model": "prueba:block/iron_furnace_on", "y": 180 },
+    "lit=true,facing=west": { "model": "prueba:block/iron_furnace_on", "y": 270 }
+  }
+}
