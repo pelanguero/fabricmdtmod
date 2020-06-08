@@ -19,10 +19,10 @@ bobView:true
 mouseSensitivity:0.5
 fov:0.0
 gamma:0.3274647891521454
-renderDistance:13
+renderDistance:4
 guiScale:0
 particles:0
-maxFps:120
+maxFps:70
 difficulty:2
 fancyGraphics:true
 ao:2

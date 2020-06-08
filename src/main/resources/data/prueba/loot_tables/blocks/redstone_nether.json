@@ -24,7 +24,7 @@
                   }
                 }
               ],
-              "name": "prueba:redstone_nether"
+              "name": "prueba:redstone_nether_item"
             },
             {
               "type": "minecraft:item",
